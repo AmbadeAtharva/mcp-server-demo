@@ -15,12 +15,16 @@ This project is a simple, tool-based server built with the `fastmcp` library to 
 
 -----
 
-## Prerequisites
+## ⚙️ Setup and Installation
 
-Before you begin, ensure you have the following installed:
+Follow these steps to set up the project on a new machine.
 
-  * **Python** (3.8 or newer)
-  * **uv:** An extremely fast Python package installer.
+**1. Prerequisites**
+* You must have **Python 3.8+** installed.
+* You must have **Claude Desktop** installed.
+* You need **uv**, an extremely fast Python package installer. If you don't have it, run this command:
+  ```bash
+  curl -LsSf [https://astral.sh/uv/install.sh](https://astral.sh/uv/install.sh) | sh
 
 -----
 
